@@ -1,0 +1,32 @@
+[
+  {
+    "time(min)":0,
+    "Run_1_mol_L":1.2,
+    "Run_2_mol_L":1.2
+  },
+  {
+    "time(min)":10,
+    "Run_1_mol_L":0.98,
+    "Run_2_mol_L":0.8
+  },
+  {
+    "time(min)":20,
+    "Run_1_mol_L":0.8,
+    "Run_2_mol_L":0.54
+  },
+  {
+    "time(min)":30,
+    "Run_1_mol_L":0.66,
+    "Run_2_mol_L":0.36
+  },
+  {
+    "time(min)":40,
+    "Run_1_mol_L":0.54,
+    "Run_2_mol_L":0.24
+  },
+  {
+    "time(min)":50,
+    "Run_1_mol_L":0.44,
+    "Run_2_mol_L":0.16
+  }
+]
